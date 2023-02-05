@@ -1,2 +1,2 @@
 # Portfolio
-Ongoing and completed projects
+Completed projects
